@@ -6,25 +6,25 @@ Bu proje, kullanıcıların notlarını **localStorage** ile tarayıcıda güven
 
 ## Özellikler
 <br/>
-- Not ekleme
-- Notları listeleme
+* Not Ekleme
+* Notları Liisteleme
+* Not silme
+* Verilerin tarayıcıda **localStorage** ile kalıcı olarak saklanması
   
-- Not silme
-  
-- Verilerin tarayıcıda **localStorage** ile kalıcı olarak saklanması
-
-
 ## Kullanılan Teknolojiler
  <br/>
- - **HTML5**: Yapısal düzen ve içerik için
- - **CSS3**: Tasarım ve stil için
- - **JavaScript**: Dinamik işlevsellik için
+✨ **HTML5**: Yapısal düzen ve içerik için
+
+✨ **CSS3**: Tasarım ve stil için
+
+✨ **JavaScript**: Dinamik işlevsellik için
+
 
  ### Ekran Görüntüsü
-   <br/>
+ <br/>
   
 ![Notekeeper](https://github.com/user-attachments/assets/549c9ccd-0e28-4c0a-94ff-d783cf86a6f8)
 
 
 
-    Saygılarımla...
+Saygılarımla...
