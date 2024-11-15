@@ -6,17 +6,21 @@ Bu proje, kullanıcıların notlarını **localStorage** ile tarayıcıda güven
 
 ## Özellikler
 <br/>
+
 * Not Ekleme
+  
 * Notları Liisteleme
+  
 * Not silme
+  
 * Verilerin tarayıcıda **localStorage** ile kalıcı olarak saklanması
+  
   
 ## Kullanılan Teknolojiler
  <br/>
 ✨ **HTML5**: Yapısal düzen ve içerik için
 
 ✨ **CSS3**: Tasarım ve stil için
-
 ✨ **JavaScript**: Dinamik işlevsellik için
 
 
